@@ -8,7 +8,11 @@ local?
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    Fill in your answer here
+    - Because it can get confusing the code is updated before I have completed my
+    modifications. Also, my code might not work properly if the code is updated
+    with the "master changes".
+    - Also, it's possible that the changes would not be merged anyway, because
+    there will likely be merge conflicts that need to be resolved manually.
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
