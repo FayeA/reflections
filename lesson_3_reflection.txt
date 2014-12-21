@@ -38,7 +38,11 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    I would collaborate by saving the file in a shared directory, sending emails 
+    to notify about updates, using change tracking feature (like in Microsoft Word), 
+    if that feature is available.  It would be easier because there are no commands 
+    to learn. But it would be more difficult to find the changes and identify 
+    and resolve conflicts.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
