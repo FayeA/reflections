@@ -24,6 +24,12 @@ change?
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+	- Branches would be helpful if I want to work on an experimental feature or
+	if I want to have a new version, for example, another language version, of
+	my project. Branches would help by allowing me to fix any bugs in the master branch
+	and then incorporate that bug fix to my experimental feature branch and my new
+	version branch by merging.
+
 How do the diagrams help you visualize the branch structure?
 
 What is the result of merging two branches together? Why do we represent it in
