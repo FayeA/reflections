@@ -39,5 +39,12 @@ How do the diagrams help you visualize the branch structure?
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+	- Merging two branches together combines the commits from the two branches.
+	They are represented in the diagram as such in order to show that git 
+	still knows the parent of the commit even though in git log the commits are
+	shown in chronological order as opposed to the order where the parent and child
+	commits are beside each other. The diagram also shows the linear path after
+	the merge point.
+
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?
