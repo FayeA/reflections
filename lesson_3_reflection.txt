@@ -47,4 +47,15 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    An instance where you would want to create changes in a separate branch is 
+    when you want to work on an experimental change or a new version of your
+    project or if you are collaborating with others. Making changes in a separate
+    branch allows you to always have a working, production quality version
+    of your project while you work on your experimental changes or other version.
+    
+    When collaborating, it's better to have a separate branch rather than working
+    on the master branch because the different labels helps identify the changes
+    that other people are working on (you have an idea right away about their changes
+    even before you see their code). Also, when there are different branches,
+    reviewing the changes would not be very messy (I can imagine having changes from 
+    more than 3 people on the master branch can be rather difficult to work with.)
